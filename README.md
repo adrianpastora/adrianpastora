@@ -39,11 +39,6 @@ Desarrollador especializado en la creación de soluciones tecnológicas innovado
 ### [Telegram Guardian Service](https://github.com/adrianpastora/telegram-guardian-service)
 Servicio de monitoreo y automatización para grupos de Telegram, implementado con Python y FastAPI.
 
-### [Sistema de Automatización Empresarial]
-Plataforma integral de automatización de procesos utilizando n8n y Airflow.
-
-### [Aplicación Web React]
-Solución web moderna con React y Next.js, integrada con PostgreSQL y servicios cloud.
 
 ## 📊 Estadísticas de GitHub
 
