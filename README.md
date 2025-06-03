@@ -1,63 +1,60 @@
-# 👋 ¡Hola! Soy **Adrián Pastora**
+# 👋 Adrián Pastora | Desarrollador Full Stack & Automatización
 
-Desarrollador con experiencia en **automatización de procesos**, **desarrollo web** e **integración de herramientas avanzadas**. Mi misión es diseñar y construir soluciones tecnológicas innovadoras que optimicen procesos y generen valor.
+## 🎯 Perfil Profesional
 
----
+Desarrollador especializado en la creación de soluciones tecnológicas innovadoras, con un enfoque particular en la automatización de procesos y el desarrollo de aplicaciones web modernas. Experiencia demostrada en la implementación de sistemas escalables y la integración de tecnologías emergentes.
 
-## 🚀 Sobre mí
+## 💡 Áreas de Especialización
 
-- 🧩 **Automatización de Procesos:** Especializado en herramientas como **n8n**, **Airflow** y **Node-RED** para crear flujos automatizados y escalables.  
-- 🌐 **Desarrollo Web:** Experiencia en el desarrollo de aplicaciones modernas utilizando **React**, **Next.js**, **Tailwind CSS** y **Bootstrap**.  
-- 📊 **Ciencia de Datos:** Transformo datos en soluciones prácticas mediante análisis avanzado y modelos predictivos.  
-- 🤖 **Inteligencia Artificial:** Desarrollo aplicaciones inteligentes que integran APIs de IA, mejorando la interacción y funcionalidad.  
-- 🌐 **Web3 y Blockchain:** Investigando y explorando aplicaciones prácticas de tecnologías descentralizadas.  
+### 🤖 Automatización & Integración
+- Desarrollo de flujos de trabajo automatizados con **n8n**, **Airflow** y **Node-RED**
+- Implementación de sistemas de integración continua y entrega continua (CI/CD)
+- Creación de APIs robustas y servicios microservicios
 
----
+### 🌐 Desarrollo Web & Frontend
+- Construcción de aplicaciones web modernas con **React** y **Next.js**
+- Implementación de interfaces responsivas con **Tailwind CSS** y **Bootstrap**
+- Desarrollo de experiencias de usuario optimizadas y accesibles
 
-## 🛠️ Tecnologías y Herramientas
+### 📊 Backend & Bases de Datos
+- Desarrollo de APIs RESTful con **FastAPI** y **Flask**
+- Gestión de bases de datos relacionales y NoSQL
+- Implementación de arquitecturas serverless y microservicios
 
-### **Lenguajes**
-- Python  
-- JavaScript  
-- TypeScript  
-- HTML5 / CSS3  
+## 🛠️ Stack Tecnológico
 
-### **Frameworks y Librerías**
-- Flask, FastAPI, Selenium  
-- React, Next.js, Redux  
-- Tailwind CSS, Bootstrap, Material-UI  
-- Chart.js  
+### Lenguajes & Frameworks
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Python, FastAPI, Flask, Node.js
+- **Bases de Datos:** PostgreSQL, MongoDB, Firebase
+- **DevOps:** Docker, Git, GitHub Actions
 
-### **Bases de Datos**
-- PostgreSQL, MongoDB, SQLite, Firebase, Supabase  
+### Herramientas & Plataformas
+- **Automatización:** n8n, Airflow, Node-RED
+- **Cloud:** AWS, Google Cloud, Cloudflare
+- **Desarrollo:** VS Code, Postman, Swagger
 
-### **Herramientas y Plataformas**
-- Docker, n8n, Airflow, Node-RED  
-- Odoo, APIs de IA, Swagger  
-- Visual Studio Code, Postman, Git, Cloudflare  
+## 🚀 Proyectos Destacados
 
----
+### [Telegram Guardian Service](https://github.com/adrianpastora/telegram-guardian-service)
+Servicio de monitoreo y automatización para grupos de Telegram, implementado con Python y FastAPI.
 
-## 🌟 Proyectos Destacados
+### [Sistema de Automatización Empresarial]
+Plataforma integral de automatización de procesos utilizando n8n y Airflow.
 
-- **Automatización Empresarial:** Diseño de flujos avanzados con **n8n** y **Airflow** para optimizar procesos complejos.  
-- **Aplicaciones Web Responsivas:** Desarrollo de plataformas modernas con **React** y **Next.js**, integradas con bases de datos escalables como **PostgreSQL** y **MongoDB**.  
-- **Chatbots Inteligentes:** Creación de bots personalizados utilizando APIs de IA y frameworks como **FastAPI** para atención al cliente y ventas.  
+### [Aplicación Web React]
+Solución web moderna con React y Next.js, integrada con PostgreSQL y servicios cloud.
 
----
+## 📊 Estadísticas de GitHub
 
-## 📈 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianpastora&show_icons=true&theme=radical&hide_border=true)
 
-![Adrián's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianpastora&show_icons=true&theme=radical)
+## 📫 Contacto & Redes
 
----
-
-## 📬 Conéctate conmigo
-
-- 🌐 **Portafolio:** [adrianpastora.com](https://adrianpastora.com)  
-- 💼 **LinkedIn:** [Adrián Pastora](https://linkedin.com/in/adrianpastora)  
-- 📧 **Email:** contacto@adrianpastora.com
+- 🌐 [Portafolio](https://adrianpastora.com)
+- 💼 [LinkedIn](https://linkedin.com/in/adrianpastora)
+- 📧 contacto@adrianpastora.com
 
 ---
 
-¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos interesantes y desafiantes. 🚀
+*"Transformando ideas en soluciones tecnológicas innovadoras"* 🚀
